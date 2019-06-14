@@ -18,7 +18,8 @@ public class MainActivity extends AppCompatActivity {
             @Override
             public void onClick(View v) {
                 TextView tLogin = findViewById(R.id.id_TextViewEmail);
-                TextView tSenha = findViewById(R.id.id_TextViewSenha);
+                //TextView tSenha = findViewById(R.id.id_TextViewSenha);
+
             }
         });
 
